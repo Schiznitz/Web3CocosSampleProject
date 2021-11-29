@@ -1,0 +1,12 @@
+{
+  "name": "Web3CocosSampleProject",
+  "type": "3d",
+  "uuid": "f0afa85d-3e77-43ac-a9d0-202e2a809a94",
+  "version": "3.3.2",
+  "creator": {
+    "version": "3.3.2"
+  },
+  "dependencies": {
+    "web3cocos": "github:schiznitz/web3cocos"
+  }
+}
